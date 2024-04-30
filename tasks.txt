@@ -1,0 +1,4 @@
+ADMIN, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 October 2019, No
+ADMIN, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 October 2019, 25 Oct 2019, No
+ROSIE, Coding, Code new task manager, 10 March 2024, 14 March 2024, No
+STOFFEL, test new programm, Test the new tas manager program, 10 March 2024, 11 March 2024, No

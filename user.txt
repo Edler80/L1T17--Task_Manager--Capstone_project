@@ -1,0 +1,4 @@
+ADMIN, adm1n, admin
+ROSIE, Rosie22, clerk
+STOFFEL, Stof22, offad
+LISA, Lisa22, salesadm1n
